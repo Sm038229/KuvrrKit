@@ -1,4 +1,4 @@
-> [中文 Readme](README_CN.md)
+> [Readme](README_CN.md)
 # Getting Started with iOS SafetyKuvrrKit
 
 ## Introduction
@@ -77,8 +77,7 @@ The app requires permissions of audio/video devices and cameras. In the `info.pl
 
 | Key                                    | Type   | Value                                                        |
 | -------------------------------------- | ------ | ------------------------------------------------------------ |
-| Privacy - Microphone Usage Description | String | The description, like "SafetyKuvrrKit needs to use your location." |
-| Privacy - Camera Usage Description     | String | The description, like "Agora Chat needs to use your camera." |
+| Privacy - Location Always and When in use usage description | String | The description, like "SafetyKuvrrKit needs to use your location." |
 
 If you hope to run `SafetyKuvrrKit` in the background, you also need to add the permission to get location in the background:
 
