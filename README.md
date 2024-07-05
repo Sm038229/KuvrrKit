@@ -1,4 +1,4 @@
-> [Readme](README_CN.md)
+> [Readme](README.md)
 # Getting Started with iOS SafetyKuvrrKit
 
 ## Introduction
