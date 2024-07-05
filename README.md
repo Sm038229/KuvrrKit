@@ -33,7 +33,7 @@ Before proceeding, ensure that your development environment meets the following 
 - SafetyKuvrrKit is integrated to provide basic functions like login, SoS, 911, and WalkSafe.
 - An [SafetKuvrr app](https://www.kuvrr.com) is created.
 
-## Integrate AgoraChatCallKit`
+## Integrate `SafetyKuvrrKit`
 
 Follow these steps to integrate `SafetyKuvrrKit`:
 
