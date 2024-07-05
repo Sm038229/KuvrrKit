@@ -84,4 +84,17 @@ If you hope to run `SafetyKuvrrKit` in the background, you also need to add the 
 1. Click `+` to add `Required background modes` to `info.plist`, with `Type` set as `Array`.
 2. Add the `Location Updates` element under `Array`.
 
+### Usage
+If you install from *CocoaPods*, you have to import the module. If you used drag and drop then there is no need of import
+``` swift
+import SafetyKuvrrKit
+```
+In your code:
+``` swift
+SKTesting.call911(success: {
 
+}, failure: {
+
+})
+```
+Checkout [`Example Project`](Example/)!
