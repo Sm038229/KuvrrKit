@@ -91,7 +91,7 @@ import SafetyKuvrrKit
 ```
 In your code:
 ``` swift
-SKTesting.call911(success: {
+SafetyKuvrr.call911(success: {
 
 }, failure: {
 
