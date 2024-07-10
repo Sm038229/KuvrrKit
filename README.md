@@ -1,4 +1,3 @@
-> [Readme](README.md)
 # Getting Started with iOS SafetyKuvrrKit
 
 ## Introduction
